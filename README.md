@@ -1,7 +1,7 @@
 # Mac ターミナルコマンド まとめ
 
 ## まとめたコンテンツ
-- [Macの基本的なディレクトリ操作](docs/mac-terminal-commands.md#ディレクトリ操作)
+- [Macの基本的なディレクトリ操作](docs/basic.md#ディレクトリ操作)
 
 ## 環境
 - macOS Sequoia
